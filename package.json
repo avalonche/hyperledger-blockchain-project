@@ -5,7 +5,7 @@
     "main": "server.js",
     "dependencies": {
         "angular": "^1.4.3",
-        "body-parser": "^1.18.3",
+        "body-parser": "^1.20.1",
         "ejs": "latest",
         "express": "latest",
         "fabric-ca-client": "^1.0.2",
